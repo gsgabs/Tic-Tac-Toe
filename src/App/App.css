@@ -1,0 +1,37 @@
+.square {
+  background-color: black;
+  border: 1px solid #999;
+  float: left;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 80px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  color:rebeccapurple;
+  width: 80px;
+}
+
+.titulo {
+  color: rgb(42, 223, 236);
+  font-size: large;
+}
+
+.status {
+  color: rgb(42, 223, 236);
+  font-size: large;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.board-row{
+  clear: both;
+  content: '';
+  display: flex;
+  justify-content: center;
+}
+
+
